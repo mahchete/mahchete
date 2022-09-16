@@ -1,6 +1,6 @@
 <div id="badges">
   <a href="https://www.twitch.tv/grim_1">
-    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/grim_1?style=social">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/grim_1?style=for-the-badge">
   </a>
   <a href="https://www.youtube.com/channel/UCA6asvZFHmUrFxB09BWghmg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
