@@ -1,4 +1,4 @@
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.twitch.tv/grim_1">
     <img alt="Twitch Status" src="https://img.shields.io/twitch/status/grim_1?style=for-the-badge">
   </a>
@@ -9,3 +9,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+<img align="center" src="https://komarev.com/ghpvc/?username=mahchete&style=flat-square&color=blue" alt=""/>
