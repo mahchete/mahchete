@@ -13,5 +13,16 @@
   <img src="https://komarev.com/ghpvc/?username=mahchete&style=flat-square&color=blue" alt=""/>
 </div>
 
+<div id=info" align="center">
+  <b>
+  
+    🔭 I’m currently student at University of Tennessee at Chattanooga
+    🌱 I’m a CyberSec student
+    📄 Languages: Java & Python
+    ⚡ Interest: Security and tinkering
+
+  </b>
+</div>
+
 
 
